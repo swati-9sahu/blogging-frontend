@@ -1,3 +1,37 @@
+# 💻 Blogging Platform - Frontend
+
+This is the **frontend** of the Blogging Platform built using **ReactJS** for the CDAC 2025 Coding Challenge.
+
+---
+
+## 🧠 My Approach
+
+- Built a responsive UI with React components
+- Used React Router for page navigation
+- Integrated CKEditor 5 for rich text blog editing
+- Used Axios for backend API communication
+- Stored JWT in localStorage to maintain session state
+
+---
+
+## 🧠 AI Usage
+
+I used **ChatGPT** to:
+- Generate React component boilerplates
+- Integrate CKEditor
+- Connect to backend with Axios
+- Design structure and write this README
+
+---
+
+## ⚙️ Setup Instructions
+
+### 1. Clone this repo
+
+```bash
+git clone https://github.com/swati-9sahu/blogging-frontend.git
+cd blogging-frontend
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
